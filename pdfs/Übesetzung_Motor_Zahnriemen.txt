@@ -1,0 +1,5 @@
+Übersetzungsverhältnis des Fahrzeugs:
+4484/20/NRitzel
+Mit Motorritzel:
+NRitzel = 28: 	i = 8.0071
+NRitzel = 20: 	i = 11.21
