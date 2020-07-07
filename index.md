@@ -9,9 +9,10 @@ This is a package meant for controlling the electric vehicles at the Institute f
 
 ## Installation
 ```console
-isys@JetsonEV:~$ git clone https://github.tik.uni-stuttgart.de/ac121730/JetsonEV.git
-isys@JetsonEV:~$ cd JetsonEV
-isys@JetsonEV:~$ sudo pip install -r requirements.txt && sudo pip install .
+user@JetsonEV:~$ git clone https://github.psomers3/JetsonEV.git
+user@JetsonEV:~$ cd JetsonEV
+user@JetsonEV:~$ sudo pip install -r requirements.txt
+user@JetsonEV:~$ sudo pip install .
 ```
 
 ## Code Documentation
