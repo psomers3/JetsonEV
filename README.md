@@ -7,9 +7,10 @@ branch.
 
 # Installation
 ```console
-isys@JetsonEV:~$ git clone https://github.psomers3/JetsonEV.git
-isys@JetsonEV:~$ cd JetsonEV
-isys@JetsonEV:~$ sudo pip install -r requirements.txt && sudo pip install .
+user@JetsonEV:~$ git clone https://github.psomers3/JetsonEV.git
+user@JetsonEV:~$ cd JetsonEV
+user@JetsonEV:~$ sudo pip install -r requirements.txt
+user@JetsonEV:~$ sudo pip install .
 ```
 # Jetson Nano
 For setting up a Jetson Nano, see the project wiki.
