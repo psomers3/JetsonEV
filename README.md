@@ -13,4 +13,7 @@ user@JetsonEV:~$ sudo pip install -r requirements.txt
 user@JetsonEV:~$ sudo pip install .
 ```
 # Jetson Nano
-For setting up a Jetson Nano, see the project wiki.
+For setting up a Jetson Nano, see the project wiki (To be uploaded...).
+
+# GUI
+A quick and dirty PyQt GUI to view the raw data from the JetsonEV can be found [here](https://github.com/psomers3/JetsonEVGUI).
