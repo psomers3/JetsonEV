@@ -1,5 +1,5 @@
 git+git://github.com/psomers3/mpu9x50#egg=mpu9x50
-git+git://github.com/averydark/xbox360controller.git#egg=xbox360controller
+git+git://github.com/psomers3/xbox360controller.git#egg=xbox360controller
 git+git://github.com/psomers3/FastestRplidar.git#egg=FastestRplidar
 git+git://github.com/thehapyone/NanoCamera#egg=NanoCamera
 git+git://github.com/psomers3/TimedTask.git#egg=TimedTask
